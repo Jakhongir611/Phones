@@ -84,7 +84,7 @@ body {
   background: #fff;
   position: fixed;
   box-shadow: 0px 18px 33px -28px rgb(66, 68, 90);
-  z-index: 99;
+  z-index: 100;
 }
 
 .th {
